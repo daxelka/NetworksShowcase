@@ -18,7 +18,7 @@ def degree_dist(G):
     return degrees, values, keys
 
 # Plotting information spreading on networks
-def plot_simulations(G, positions, iterations):
+def visualise_simulations(G, positions, iterations):
     color_map = []
     for iteration in range(G.number_of_nodes()):
         color_map.append('green')
