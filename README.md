@@ -11,7 +11,7 @@ For the visualisation on information spreading on network, a small Watts-Strogat
 
 ## Repository structure
 
-The main file is main.ipynd; it gives an overview of the project. 
+The main file is main.ipynb; it gives an overview of the project. 
 To run script locally, first call requirements.txt to download required dependencies, then run jupyter notebook (Visit [Jupyter website](https://jupyter.org/try) for more information). 
 
 
